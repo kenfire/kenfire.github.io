@@ -195,6 +195,9 @@
 					<p>I believe in a company where people work as a team and values transparency.</p>
 				</header>
 				<ul class="actions stacked">
+					<li></li>
+					<li></li>
+					<li></li>
 					<li><a href="mailto:kenzo<dot>hosomi<at>outlook<dot>com" class="button fit primary">Get in touch</a></li>
 				</ul>
 			</div>
