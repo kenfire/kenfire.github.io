@@ -1,9 +1,3 @@
-<!DOCTYPE HTML>
-<!--
-	Spectral by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
 <html>
 
 <head>
@@ -195,9 +189,6 @@
 					<p>I believe in a company where people work as a team and values transparency.</p>
 				</header>
 				<ul class="actions stacked">
-					<li></li>
-					<li></li>
-					<li></li>
 					<li><a href="mailto:kenzo<dot>hosomi<at>outlook<dot>com" class="button fit primary">Get in touch</a></li>
 				</ul>
 			</div>
